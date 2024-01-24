@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👋, I'm Mariyash</h1>
-<h5 align="left">Junior backend developer from Kazakhstan</h3>
+## Hi! Im Mariyash, and welcome to my page
+### Im backend-web programmer (junior) from Kazakhstan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/mqrshko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="mqrshko" height="40" width="40" /></a> <a href="https://wa.me/77712884497" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2062095_application_chat_communication_logo_whatsapp_icon.svg/2048px-2062095_application_chat_communication_logo_whatsapp_icon.svg.png" alt="mqrshko" height="40" width="40" /></a>
+<a href="https://t.me/mqrshko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="mqrshko" height="30" width="30" /></a> <a href="https://wa.me/77712884497" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2062095_application_chat_communication_logo_whatsapp_icon.svg/2048px-2062095_application_chat_communication_logo_whatsapp_icon.svg.png" alt="mqrshko" height="30" width="30" /></a>
 </p>
 
 <h3 align="left" style="underline:none;">Languages and Tools:</h3>
