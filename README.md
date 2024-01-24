@@ -1,5 +1,5 @@
 ## Hi! Im Mariyash, and welcome to my page
-### Im backend-web programmer (junior) from Kazakhstan
+Im backend-web programmer (junior) from Kazakhstan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
