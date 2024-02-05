@@ -1,5 +1,5 @@
 ## Hi! Im Mariyash, and welcome to my page
-Backend python-programmer (junior) from Kazakhstan
+Backend python-programmer from Kazakhstan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
